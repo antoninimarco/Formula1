@@ -1,0 +1,531 @@
+{
+  "bots": [
+    {
+      "name": "Marco",
+      "car": {
+        "firstVector": {
+          "start": {
+            "x": 9,
+            "y": 4
+          },
+          "finish": {
+            "x": 9,
+            "y": 5
+          },
+          "length": 1.0
+        },
+        "color": "BLACK",
+        "velocity": 1.0
+      },
+      "status": "RACE",
+      "round": 0,
+      "vectors": [
+        {
+          "start": {
+            "x": 9,
+            "y": 4
+          },
+          "finish": {
+            "x": 9,
+            "y": 5
+          },
+          "length": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Pippo",
+      "car": {
+        "firstVector": {
+          "start": {
+            "x": 10,
+            "y": 4
+          },
+          "finish": {
+            "x": 10,
+            "y": 5
+          },
+          "length": 1.0
+        },
+        "color": "RED",
+        "velocity": 1.0
+      },
+      "status": "RACE",
+      "round": 0,
+      "vectors": [
+        {
+          "start": {
+            "x": 10,
+            "y": 4
+          },
+          "finish": {
+            "x": 10,
+            "y": 5
+          },
+          "length": 1.0
+        }
+      ]
+    },
+    {
+      "name": "Pluto",
+      "car": {
+        "firstVector": {
+          "start": {
+            "x": 11,
+            "y": 4
+          },
+          "finish": {
+            "x": 11,
+            "y": 5
+          },
+          "length": 1.0
+        },
+        "color": "GREEN",
+        "velocity": 1.0
+      },
+      "status": "RACE",
+      "round": 0,
+      "vectors": [
+        {
+          "start": {
+            "x": 11,
+            "y": 4
+          },
+          "finish": {
+            "x": 11,
+            "y": 5
+          },
+          "length": 1.0
+        }
+      ]
+    }
+  ],
+  "gameFinish": false,
+  "round": 0,
+  "track": {
+    "trackPoints": [
+      {
+        "type": "START",
+        "x": 9,
+        "y": 4
+      },
+      {
+        "type": "START",
+        "x": 10,
+        "y": 4
+      },
+      {
+        "type": "START",
+        "x": 11,
+        "y": 4
+      },
+      {
+        "type": "INRACE",
+        "x": 9,
+        "y": 5
+      },
+      {
+        "type": "INRACE",
+        "x": 10,
+        "y": 5
+      },
+      {
+        "type": "INRACE",
+        "x": 11,
+        "y": 5
+      },
+      {
+        "type": "INRACE",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 6,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 7,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 8,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 9,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 10,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 11,
+        "y": 6
+      },
+      {
+        "type": "INRACE",
+        "x": 4,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 7,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 8,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 9,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 10,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 11,
+        "y": 7
+      },
+      {
+        "type": "INRACE",
+        "x": 4,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 8,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 9,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 10,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 11,
+        "y": 8
+      },
+      {
+        "type": "INRACE",
+        "x": 4,
+        "y": 9
+      },
+      {
+        "type": "INRACE",
+        "x": 5,
+        "y": 9
+      },
+      {
+        "type": "INRACE",
+        "x": 6,
+        "y": 9
+      },
+      {
+        "type": "INRACE",
+        "x": 4,
+        "y": 10
+      },
+      {
+        "type": "INRACE",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "INRACE",
+        "x": 6,
+        "y": 10
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 11
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 12
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 13
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 14
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 15
+      },
+      {
+        "type": "FINISH",
+        "x": 1,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 2,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 3,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 4,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 5,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 6,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 7,
+        "y": 16
+      },
+      {
+        "type": "FINISH",
+        "x": 8,
+        "y": 16
+      }
+    ],
+    "type": "LINEAR",
+    "numberCheckPoints": 0
+  }
+}
